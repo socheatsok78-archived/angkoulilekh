@@ -1,0 +1,9 @@
+{
+  "name": "angkoulilekh",
+  "version": "0.0.1",
+  "description": "New Khmer Unicode Typing create using React and Atom Electron",
+  "main": "index.js",
+  "repository": "https://github.com/pp-spaces/angkoulilekh",
+  "author": "pp-spaces",
+  "license": "MIT"
+}
