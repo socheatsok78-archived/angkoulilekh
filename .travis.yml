@@ -26,6 +26,9 @@ install:
   - cd app && npm prune && cd ..
   - npm install
 
+script:
+  - echo "Test Log"
+
 # script:
 #   - npm run lint
 #   - npm run build:prod
